@@ -2,4 +2,4 @@
 
 Udemy course demo project
 
-## Course: AUTOSAR Architecture (Learn from Scratch with Demo)
+Course: AUTOSAR Architecture (Learn from Scratch with Demo)
